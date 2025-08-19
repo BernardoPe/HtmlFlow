@@ -122,10 +122,6 @@
         <mockito.junit-version>4.8.0</mockito.junit-version>
         <argLine>-Xss16m -Xmx32M</argLine>
         <kotlin.version>1.9.22</kotlin.version>
-
-        <sonar.projectKey>BernardoPe_HtmlFlow</sonar.projectKey>
-        <sonar.organization>bernardope</sonar.organization>
-        <sonar.java.binaries>target/classes</sonar.java.binaries>
     </properties>
     <build>
         <plugins>
